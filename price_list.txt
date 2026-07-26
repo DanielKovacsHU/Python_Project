@@ -1,0 +1,9 @@
+Adult prices:
+    normal package : 300 $ / person / night (only room without services)
+    premium package : 600 $ / person / night (normal package + pool + gym)
+    luxury package : 900 $ / person / night (premium package + 3 dining / day + sauna + massage)
+
+Kid prices(under 18 years old):
+    normal package : 150 $ / person / night (only room with no services)
+    premium package : 300 $ / person / night (normal package + outside pool + gym)
+    luxury package : 450 $ / person / night (premium package + 3 dining / day + sauna + massage)
