@@ -2,8 +2,14 @@
 
 
 
+
 # Hotel Management System
-## (https://github.com/user-attachments/assets/ce77f30c-9a6f-4fb5-887b-be23e8211721)
+## [![Hotel Management System](<img width="1024" height="576" alt="hms" src="https://github.com/user-attachments/assets/bf6cb027-2671-490f-933a-cc2e1b0526d5" />
+)](https://github.com/user-attachments/assets/90280530-19e4-4121-add1-2e62498eac24)   
+
+
+
+
 
 # Introduction
 Welcome, in the introduction I explain what’s my [CS50P](https://pll.harvard.edu/course/cs50s-introduction-programming-python) final project is, the original use case and some do and don’t-s.
