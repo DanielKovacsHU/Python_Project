@@ -1,0 +1,17 @@
+name,adult,kid,package,night,room
+Veteran Guest,1,5,luxury,10,1
+New Guest,2,3,normal,10,2
+Tall Guest,1,1,premium,10,3
+Short Guest,1,1,normal,10,4
+Funny Guest,1,1,premium,10,5
+happy Guest,1,1,luxury,10,6
+Sporty Guest,,5,luxury,10,1
+Traveler Guest,2,,normal,10,2
+Tired Guest,1,1,,10,3
+Motivating Guest,1,1,normal,,4
+Dancer Guest,1,1,premium,10,
+Tomas,1,0,luxury,5,10
+Scott,2,1,luxury,2,34
+Robert,2,4,premium,2,33
+Alex,3,3,normal,3,3
+Peter,1,0,normal,4,63
